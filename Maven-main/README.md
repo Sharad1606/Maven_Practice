@@ -1,44 +1,9 @@
 <h1 align="center">Maven</h1>
 
 <p align="justify">
-  Welcome to the <b>Maven</b> repository! This repository covers the essentials of Maven, explaining its importance and
-  guiding you through creating both non-web and web applications efficiently using Maven.
+  Welcome to the <b>Maven</b> repository! This repository covers the essentials of Maven, explaining its importance for creating both non-web and web applications efficiently using Maven.
 </p>
 
-<hr>
-
-<h3 align="left">📌 Table of Contents</h3>
-<ol align="left">
-  <li>Why Maven?</li>
-  <li>Quickstart with Maven</li>
-  <li>Webapp with Maven</li>
-</ol>
-
-<hr>
-
-<h3 align="left">⚙️ Prerequisites</h3>
-<p align="justify">
-  These demos have been built using <b>JDK 17</b>. While it is
-  recommended to have JDK 17 installed, the examples can be adapted to other Java versions with minimal modifications.
-</p>
-<p align="justify">
-  The database used in these examples is <b>MySQL</b>, but the code can be adjusted to work with other databases if
-  needed.
-</p>
-<p align="justify">
-  Before diving into Maven, ensure you're comfortable with the following concepts:
-<ul>
-  <li><a href="https://abhishekvermaa10.github.io/Java Basics"
-        target="_blank">Java Basics</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLJDwhlqmpSfP5xBfI-41j3gNZ6GAsrxD-"
-        target="_blank">Java Advanced</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLJDwhlqmpSfP1FroiBGc7N3-r67VaEp0V"
-        target="_blank">Java Database Connectivity (JDBC)</a></li>
-</ul>
-You can learn these topics from my YouTube channel through dedicated playlists.
-</p>
-
-<hr>
 
 <h3 align="left">🚀 How to Run the Demos</h3>
 <p align="justify">
