@@ -15,11 +15,6 @@
     <li>Configure the database connection, if necessary.</li>
     <li>Run the application and test the methods.</li>
 </ol>
-<p align="justify">
-    If you're a beginner, it's best to execute the demos in the given order to build your understanding progressively.
-    If you're experienced, feel free to explore specific demos based on your needs.
-</p>
-
 <hr>
 
 <h3 align="left">🛠️ Languages & Frameworks</h3>
