@@ -54,5 +54,3 @@
 </div>
 
 <hr>
-
-<div align="center">Copyright © Abhishek Verma - All Rights Reserved</div>
